@@ -4,6 +4,9 @@ A company pays its employees as managers (who receive a fixed monthly salary), h
 
 Presented by:
    Anu Thampi
+
    Arjun
+
    Karthik
+
    Aleena
