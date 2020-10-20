@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-  //varibales
+  //variables
   int emp_code {};
   double totalSalary {};
 
