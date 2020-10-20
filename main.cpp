@@ -87,5 +87,6 @@ int main(){
     }
   }
   cout << "\nTotal Payroll for this week = " << totalSalary;
+  cout << endl;
   return 0;
 }
